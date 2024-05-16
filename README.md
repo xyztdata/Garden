@@ -1,7 +1,7 @@
-# Garden
+## Garden
 Scripts and reference data for building, maintaining, and observing a garden
 
-# 3D Models
+## 3D Models
 
 Resources for Blender or Sketchup
 

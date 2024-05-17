@@ -15,5 +15,5 @@ https://3dwarehouse.sketchup.com/model/76a75dab708e9c3f75f85e1a80e1f9d3/cattle-p
 
 Sample 3D raised bed garden designs as jumping off points... 
 
-..* https://3dwarehouse.sketchup.com/search/models?q=raised+bed+garden&order=relevance
+https://3dwarehouse.sketchup.com/search/models?q=raised+bed+garden&order=relevance
 
